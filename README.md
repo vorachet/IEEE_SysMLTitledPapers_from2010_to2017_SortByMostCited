@@ -4,12 +4,13 @@ Website: https://vorachet.github.io/IEEE_SysMLTitledPapers_from2010_to2017_SortB
 
 ```
 Activity on: 22 OCT 2017
-Collectors: Vorachet Jaroensawas, Thanaphon Chearanai
 Number of papers: 395
 Publisher: IEEE
 Content Type: Conference Publications Journals & Magazines
 Year: 2010-2017
 Sort order: Most Cited Count (Descending) Max cited:49 Min cited: 0
+
+Vorachet JAROENSAWAS
 ```
 
 ## Citations in HTML files
